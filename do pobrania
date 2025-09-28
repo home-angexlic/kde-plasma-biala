@@ -1,0 +1,9 @@
+do pobrania standardowe pod kde
+
+sudo pacman -S yay
+yay -S kitty
+yay -S nemo
+yay -S nautilus
+yay -S neofetch
+yay -S codeoss
+
