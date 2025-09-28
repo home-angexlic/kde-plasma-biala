@@ -6,4 +6,12 @@ yay -S nemo
 yay -S nautilus
 yay -S neofetch
 yay -S codeoss
+yay -S nvidia nvidia-utils nvidia-settings
+yay -S discord
+yay -S steam
+yay -S spotify
+yay -S chromium
+
+to tyle
+
 
